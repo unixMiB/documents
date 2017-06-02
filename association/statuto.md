@@ -5,9 +5,9 @@
 ### 1.2 Oggetto
 Scopo dell’Associazione è quello di promuovere la più ampia diffusione dell’informatica cosiddetta “Open”, nel senso di aperta, e “Free”, nel senso di libera, che favorisce un uso aperto e libero della produzione informatica ed intellettuale in genere. L’Associazione intende perseguire i propri scopi tramite le seguenti attività:
 
--   essere un punto di ritrovo per gli utenti del sistema operativo GNU/Linux;
--   promuovere l’informazione sul suddetto sistema operativo e la sua diffusione;
--   promuovere lo scambio di software libero tra i soci dell’organizzazione;
+-   essere un punto di ritrovo per la comunità Open Source;
+-   promuovere la filosofia "Open Source" declinata in tutti i suoi aspetti;
+-   promuovere l'utilizzo e la diffusione di software libero;
 -   promuovere la pratica del Do It Yourself (DIY);
 -   organizzare eventi e iniziative coerenti con i punti precedenti.
 
@@ -48,6 +48,7 @@ I Soci Fondatori sono le persone fisiche che hanno fondato l’Associazione. I S
 
 ### 2.6 Soci Ordinari
 I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazione, previa accettazione della loro domanda d’iscrizione da parte degli organi preposti.
+
 ### 2.7 Soci Ordinari senza diritto di voto
 I Soci Ordinari senza diritto di voto, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per sei mesi consecutivi dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
 
@@ -67,7 +68,7 @@ I soci hanno diritto a:
 Hanno diritto di voto in Assemblea i soci che abbiano rinnovato la tessere almeno cinque giorni prima dello svolgimento della stessa. Tutti i soci hanno gli stessi doveri e godono degli stessi diritti nei confronti dell’Associazione.
 
 ### 2.11 Doveri del socio
-Il socio è tenuto al pagamento della quota sociale, al rispetto dello statuto e del Regolamento interno, ad osservare le delibere degli organi sociali, al rispetto delle strutture e materiali messi a disposizione dall’associazione, nonché a mantenere irreprensibile condotta civile e morale all’interno dei locali dell’Associazione.
+Il socio è tenuto al rispetto dello statuto e del Regolamento interno, ad osservare le delibere degli organi sociali, al rispetto delle strutture e materiali messi a disposizione dall’associazione, nonché a mantenere irreprensibile condotta civile e morale all’interno dei locali dell’Associazione.
 
 ### 2.12 Recesso del socio
 La qualifica di socio si perde per:
