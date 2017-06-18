@@ -38,27 +38,23 @@ Sono Soci tutti coloro che si riconoscono nei fini della Associazione, che sono 
 ### 2.4 Categorie di soci
 I soci si dividono in:
 
-- Soci Fondatori;
 - Soci Ordinari;
-- Soci Ordinari senza diritto di voto;
+- Soci Inattivi;
 - Soci Onorari.
 
-### 2.5 Soci Fondatori
-I Soci Fondatori sono le persone fisiche che hanno fondato l’Associazione. I Soci Fondatori mantengono sempre e in ogni caso il diritto di voto. Il socio fondatore può essere escluso dall’Associazione in caso di condanna penale.
-
-### 2.6 Soci Ordinari
+### 2.5 Soci Ordinari
 I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazione, previa accettazione della loro domanda d’iscrizione da parte degli organi preposti.
 
-### 2.7 Soci Ordinari senza diritto di voto
+### 2.6 Soci Inattivi
 I Soci Ordinari senza diritto di voto, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per sei mesi consecutivi dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
 
-### 2.8 Soci Onorari
+### 2.7 Soci Onorari
 Sono soci onorari le persone fisiche che decidano di sostenere l’Associazione attraverso donazioni ma che non intendono partecipare in maniera attiva alle attività della stessa.
 
-### 2.9 Accettazione del socio
+### 2.8 Accettazione del socio
 Entro trenta giorni dalla presentazione, salvo parere contrario del Consiglio Direttivo, che dovrà esprimerne i motivi, la qualifica di socio diverrà effettiva e al nuovo socio verrà consegnata la tessera sociale.
 
-### 2.10 Diritti del socio
+### 2.9 Diritti del socio
 I soci hanno diritto a:
 
 - frequentare i locali dell’Associazione e partecipare a tutte le iniziative e alle manifestazioni promosse dall’Associazione, come da apposito regolamento;
@@ -67,17 +63,17 @@ I soci hanno diritto a:
 
 Hanno diritto di voto in Assemblea i soci che abbiano rinnovato la tessere almeno cinque giorni prima dello svolgimento della stessa. Tutti i soci hanno gli stessi doveri e godono degli stessi diritti nei confronti dell’Associazione.
 
-### 2.11 Doveri del socio
+### 2.10 Doveri del socio
 Il socio è tenuto al rispetto dello statuto e del Regolamento interno, ad osservare le delibere degli organi sociali, al rispetto delle strutture e materiali messi a disposizione dall’associazione, nonché a mantenere irreprensibile condotta civile e morale all’interno dei locali dell’Associazione.
 
-### 2.12 Recesso del socio
+### 2.11 Recesso del socio
 La qualifica di socio si perde per:
 
 - decesso;
 - espulsione o radiazione;
 - dimissioni, che devono essere presentate per iscritto al Consiglio Direttivo.
 
-### 2.13 Espulsione
+### 2.12 Espulsione
 Il Consiglio Direttivo ha la facoltà di espellere un associato per i casi di seguito descritti:
 
 - reiterata inosservanza delle disposizioni dello statuto, di eventuali regolamenti o delle deliberazioni degli organi sociali;
