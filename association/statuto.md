@@ -90,7 +90,7 @@ Il patrimonio sociale dell’Associazione è indivisibile ed è costituito da: c
 Il rendiconto comprende l’esercizio sociale dal 1 gennaio al 31 dicembre di ogni anno e deve essere presentato all’assemblea dei soci entro il 30 aprile successivo. Ulteriore deroga può essere prevista in caso di comprovata necessità o impedimento.
 
 ### 3.3 Composizione del rendiconto
-Il rendiconto dovrà essere composto da un prospetto illustrativo della situazione economica relativa all’esercizio sociale e da un documento che illustri e riassuma la situazione finanziaria dell’Associazione con particolare riferimento allo stato del fondo di riserva. L’utilizzo di tale fondo di riserva è vincolato alla decisione dell’Assemblea dei Soci. Il residuo attivo sarà devoluto in parte come fondo di riserva e il rimanente sarà tenuto a disposizione per le iniziative promosse dall’Associazione e comunque attinenti all’oggetto dell’Associazione stessa.
+Il rendiconto dovrà essere composto da un prospetto illustrativo della situazione economica relativa all’esercizio sociale e da un documento che illustri e riassuma la situazione finanziaria dell’Associazione. Il residuo attivo sarà tenuto a disposizione per le iniziative promosse dall’Associazione e comunque attinenti all’oggetto dell’Associazione stessa.
 
 ## 4. L’Assemblea
 ### 4.1 Composizione
