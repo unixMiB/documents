@@ -30,7 +30,7 @@ Gli organi dell’Associazione sono:
 Il numero dei soci è illimitato. Può diventare socio chiunque, indipendentemente dalla propria appartenenza politica e religiosa, sesso, cittadinanza, appartenenza etnica e professione. Agli aspiranti soci sono richiesti l’accettazione dello statuto e dei regolamenti interni.
 
 ### 2.2 Domanda di ammissione
-Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome, indirizzo, luogo e data di nascita unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email o richiesta cartacea.
+Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome, luogo e data di nascita unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email o richiesta cartacea.
 
 ### 2.3 Soci
 Sono Soci tutti coloro che si riconoscono nei fini della Associazione, che sono disposti a sostenerla per il raggiungimento degli scopi istituzionali, che presentano domanda di ammissione alla Associazione di cui al precedente paragrafo. Gli Organi Sociali preposti si riservano di ammettere il socio richiedente a seguito dell’esame della domanda di ammissione corredata dalla documentazione richiesta.
