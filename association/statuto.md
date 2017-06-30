@@ -94,7 +94,7 @@ Il rendiconto dovrà essere composto da un prospetto illustrativo della situazio
 
 ## 4. L’Assemblea
 ### 4.1 Composizione
-L’Assemblea, Ordinaria e Straordinaria, è l’organo deliberativo dell’Associazione. Hanno diritto a parteciparvi tutti i Soci. Hanno diritto di voto i soci maggiorenni, purché non privati del diritto di voto come da punto 2.4. Il diritto di voto dei soci minorenni è esercitato per mezzo del genitore, ove questi sia a sua volta socio.
+L’Assemblea, Ordinaria e Straordinaria, è l’organo deliberativo dell’Associazione. Hanno diritto a parteciparvi tutti i Soci. Hanno diritto di voto i soci maggiorenni, purché non privati del diritto di voto come da punto 2.6. Il diritto di voto dei soci minorenni è esercitato per mezzo del genitore, ove questi sia a sua volta socio.
 
 ### 4.2 Competenze dell’Assemblea Ordinaria
 L’Assemblea Ordinaria viene convocata una volta all’anno nel periodo che va dal 1 gennaio al 30 aprile. Essa:
