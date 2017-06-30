@@ -46,7 +46,7 @@ I soci si dividono in:
 I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazione, previa accettazione della loro domanda d’iscrizione da parte degli organi preposti.
 
 ### 2.6 Soci Inattivi
-I Soci Ordinari senza diritto di voto, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per sei mesi consecutivi dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
+I Soci Inattivi, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per sei mesi consecutivi dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
 
 ### 2.7 Soci Onorari
 Sono soci onorari le persone fisiche che decidano di sostenere l’Associazione attraverso donazioni ma che non intendono partecipare in maniera attiva alle attività della stessa.
