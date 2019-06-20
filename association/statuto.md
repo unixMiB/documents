@@ -43,11 +43,11 @@ Gli organi dell’Associazione sono:
 
 ### 2.1 Composizione dell’Associazione
 
-Il numero dei soci è illimitato. Può diventare socio chiunque, indipendentemente dalla propria appartenenza politica e religiosa, sesso, cittadinanza, appartenenza etnica e professione. Agli aspiranti soci sono richiesti l’accettazione dello statuto e dei regolamenti interni.
+Il numero dei soci è illimitato. Può diventare socio qualsiasi studente, docente o membro del personale universitario, indipendentemente dalla propria appartenenza politica e religiosa, sesso, cittadinanza, appartenenza etnica e professione. Agli aspiranti soci sono richiesti l’accettazione dello statuto e dei regolamenti interni.
 
 ### 2.2 Domanda di ammissione
 
-Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome, luogo e data di nascita unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email o richiesta cartacea.
+Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognomee matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
 
 ### 2.3 Soci
 
@@ -59,7 +59,7 @@ I soci si dividono in:
 
 - Soci Ordinari;
 - Soci Inattivi;
-- Soci Onorari.
+- Soci Fondatori.
 
 ### 2.5 Soci Ordinari
 
@@ -67,15 +67,15 @@ I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazion
 
 ### 2.6 Soci Inattivi
 
-I Soci Inattivi, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per sei mesi consecutivi dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
+I Soci Inattivi, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per quattro riunioni ordinarie consecutive dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
 
-### 2.7 Soci Onorari
+### 2.7 Soci Fondatori
 
-Sono soci onorari le persone fisiche che decidano di sostenere l’Associazione attraverso donazioni ma che non intendono partecipare in maniera attiva alle attività della stessa.
+Sono soci ordinari che hanno aiutato a fondare l'associazione e che non perdono lo status di socio anche dopo aver lasciato l'università.
 
 ### 2.8 Accettazione del socio
 
-Entro trenta giorni dalla presentazione, salvo parere contrario del Consiglio Direttivo, che dovrà esprimerne i motivi, la qualifica di socio diverrà effettiva e al nuovo socio verrà consegnata la tessera sociale.
+Entro trenta giorni dalla presentazione, salvo parere contrario anche di un singolo membro del Consiglio Direttivo, che dovrà esprimerne i motivi, la qualifica di socio diverrà effettiva e al nuovo socio verrà consegnata la tessera sociale.
 
 ### 2.9 Diritti del socio
 
@@ -113,11 +113,11 @@ Il Consiglio Direttivo ha la facoltà di espellere un associato per i casi di se
 
 ### 3.1 Patrimonio Sociale
 
-Il patrimonio sociale dell’Associazione è indivisibile ed è costituito da: contributi, donazioni e lasciti diversi; è prevista la possibilità di mettere a disposizione dell’associazione materiale informatico. L’Associazione si impegna a mantenere un elenco ufficiale del materiale ricevuto in prestito; tale elenco dovrà essere verificato ogni anno (inventario) e firmato dal segretario in carica. Il proprietario si deve impegnare a rendere in qualche modo riconoscibile il materiale messo a disposizione dell’associazione; se per qualsiasi motivo ciò non fosse possibile, potrà richiedere all’associazione un documento ufficiale (firmato) avente funzione di ricevuta.
+Il patrimonio sociale dell’Associazione è indivisibile ed è costituito da: contributi, donazioni e lasciti diversi; è prevista la possibilità di mettere a disposizione dell’associazione materiale. L’Associazione si impegna a mantenere un elenco ufficiale del materiale ricevuto in prestito; tale elenco dovrà essere verificato ogni anno (inventario) e firmato dal segretario in carica. Il proprietario si deve impegnare a rendere in qualche modo riconoscibile il materiale messo a disposizione dell’associazione; se per qualsiasi motivo ciò non fosse possibile, potrà richiedere all’associazione un documento ufficiale (firmato) avente funzione di ricevuta.
 
 ### 3.2 Rendiconto
 
-Il rendiconto comprende l’esercizio sociale dal 1 gennaio al 31 dicembre di ogni anno e deve essere presentato all’assemblea dei soci entro il 30 aprile successivo. Ulteriore deroga può essere prevista in caso di comprovata necessità o impedimento.
+Il rendiconto comprende l’esercizio sociale dal 1 gennaio al 31 dicembre di ogni anno e deve essere presentato all’assemblea dei soci entro il 20 giugno successivo. Ulteriore deroga può essere prevista in caso di comprovata necessità o impedimento.
 
 ### 3.3 Composizione del rendiconto
 
@@ -131,11 +131,11 @@ L’Assemblea, Ordinaria e Straordinaria, è l’organo deliberativo dell’Asso
 
 ### 4.2 Competenze dell’Assemblea Ordinaria
 
-L’Assemblea Ordinaria viene convocata una volta all’anno nel periodo che va dal 1 gennaio al 30 aprile. Essa:
+Le Assemblee Ordinarie vengono convocate più volte all’anno nel periodo che va dal 1 gennaio al 31 dicembre, mediate preavviso su canali telematici predisposti. Essa:
 
 - approva il rendiconto economico e finanziario;
 - elegge gli organi sociali, votando la preferenza a nominativi scelti tra i soci, fino ad un numero uguale a quello dei componenti per ciascun organo. In caso di parità di voti, sarà eletto il socio con la maggiore anzianità di iscrizione all’Associazione;
-- delibera su tutte le questioni attinenti la gestione sociale.
+- delibera su tutte le questioni attinenti la gestione sociale e organizzativa.
 
 ### 4.3 Competenze dell’Assemblea Straordinaria
 
@@ -148,6 +148,7 @@ La convocazione avviene mediante posta per via telematica. L’avviso di convoca
 ### 4.5 Costituzione dell’Assemblea
 
 L’Assemblea, sia Ordinaria che Straordinaria, è regolarmente costituita alla presenza della metà più uno dei soci con diritto di voto. In seconda convocazione, invece, l’Assemblea è regolarmente costituita qualunque sia il numero degli intervenuti.
+Un metodo valido per esprimere il diritto di voto è anche mediante vie telematiche attraverso i canali predisposti con annessa verbalizzazione come meglio definito in seguito nel punto 4.9.
 
 ### 4.6 Eccezioni alle delibere
 
@@ -169,7 +170,7 @@ Per decidere su argomenti per i quali basta la maggioranza semplice, a discrezio
 
 ### 5.1 Composizione del Consiglio Direttivo
 
-Il Consiglio Direttivo, salvo il primo nominato con l’atto costitutivo, viene eletto dall’Assemblea dei Soci alla fine del mandato che dura due anni. Il consiglio direttivo è composto da un minimo di tre membri ed un massimo di diciannove membri. Tutti i consiglieri sono rieleggibili. I consiglieri svolgono la loro attività a titolo gratuito, fatto salvo un rimborso per eventuali spese effettivamente sostenute in nome e per conto dell’Associazione e dietro presentazione di ricevute giustificative.
+Il Consiglio Direttivo, oltre i soci fondatori (fatta eccezione alla rinuncia permanente di essi), viene eletto dall’Assemblea dei Soci alla fine del mandato che dura due anni. Il consiglio direttivo è composto da un minimo di tre membri, ed un massimo di venti membri aggiuntivi ai fondatori. Tutti i consiglieri sono rieleggibili. I consiglieri svolgono la loro attività a titolo gratuito, fatto salvo un rimborso per eventuali spese effettivamente sostenute in nome e per conto dell’Associazione e dietro presentazione di ricevute giustificative. Nel caso di rinunicia di un individuo alla sua carica si procederà alla rielezione del singolo.
 
 ### 5.2 Cariche del Consiglio Direttivo
 
@@ -196,7 +197,7 @@ Compiti del consiglio direttivo sono:
 
 ### 5.4 Riunione del Consiglio Direttivo
 
-Il Consiglio Direttivo si riunisce di norma ogni 6 mesi, in un giorno prestabilito senza necessità di ulteriore avviso, e straordinariamente quando ne facciano richiesta almeno 3 Consiglieri, o su convocazione del Presidente. Le sedute sono valide quando vi intervenga la maggioranza dei Consiglieri, e le delibere sono approvate a maggioranza assoluta di voti dei presenti. Le votazioni avverranno solo con voto palese. La parità di voti comporta la reiezione della proposta. Delle deliberazioni del Consiglio Direttivo va redatto verbale da annotare sul relativo registro a cura del Presidente e del segretario e tale registro va tenuto a disposizione dei soci.
+Il Consiglio Direttivo si riunisce di norma ogni 1-2 mesi, in un giorno prestabilito mediante preavviso, e straordinariamente quando ne facciano richiesta almeno 3 Consiglieri, o su convocazione del Presidente. Le sedute sono valide quando vi intervenga la maggioranza dei Consiglieri, e le delibere sono approvate a maggioranza assoluta di voti dei presenti. Le votazioni avverranno solo con voto palese. La parità di voti comporta la reiezione della proposta. Delle deliberazioni del Consiglio Direttivo va redatto verbale da annotare sul relativo registro a cura del Presidente e del segretario e tale registro va tenuto a disposizione dei soci.
 
 ### 5.5 Delibere telematiche
 
