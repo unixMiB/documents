@@ -9,7 +9,10 @@ L’Associazione non ha finalità di lucro.
 Gli utili o gli avanzi di gestione sono impiegati esclusivamente per la realizzazione delle attività istituzionali e di quelle ad esse connesse.
 L’Associazione è svincolata da qualsiasi ideologia politica o religiosa.
 
-{TODO: Definire la sede}
+L’Associazione ha sede in Milano, Piazza della Scienza 1. Il trasferimento della sede legale non comporta modifica statutaria, se avviene all’interno dello stesso Comune.
+E’ data facoltà al Consiglio Direttivo di cambiare la sede legale, ove se ne ravvisi la necessità, previa deliberazione dell’assemblea dei soci. L’Associazione è tenuta a comunicare tempestivamente qualsiasi trasferimento di sede agli enti gestori di pubblici Albi o Registri nei quali è iscritta.
+
+L’Associazione ha facoltà, qualora se ne ravvisi la necessità, di istituire sedi secondarie o sezioni autonome dal punto di vista patrimoniale, organizzativo ed economico.
 
 ### 1.2 Oggetto
 
@@ -20,7 +23,7 @@ Scopo dell’Associazione è quello di promuovere la più ampia diffusione dell�
 - Contribuire alla diffusione di un’opinione corretta e della consapevolezza fra gli utenti di strumenti informatici della peculiarità del Software Libero;
 - Promuovere la pratica del "Do It Yourself" (Fai da te);
 - La promozione di reti di condivisione tra Linux User Group, Fablab, Codelab, Hacklabs e altre associazioni con finalità simili esistenti sul territorio nazionale ed estero;
-- La valorizzazione di metodi produttivi non massificati e attenti all’impatto ambientale, {TODO: Rivedi qua} compatibili con la filosofia del trashware;
+- La valorizzazione di metodi produttivi non massificati e attenti all’impatto ambientale, compatibili con la filosofia del trashware;
 - Organizzare e/o partecipare a convegni, seminari, corsi e manifestazioni, fiere, intesi come momenti di divulgazione e crescita culturale nell’ambito dell’alfabetizzazione informatica compatibili con i punti precedenti;
 
 Sono definiti "software liberi" nel sensWo inteso dall'associazione tutte le opere che sono state contrassegnate dai loro autori con una licenza approvata [Open Source Initiative](https://opensource.org/licenses) che ne permetta l'elaborazione e/o la diffusione gratuita.
@@ -47,7 +50,7 @@ Il numero dei soci è illimitato. Può diventare socio qualsiasi studente, docen
 
 ### 2.2 Domanda di ammissione
 
-Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognomee matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
+Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
 
 ### 2.3 Soci
 
