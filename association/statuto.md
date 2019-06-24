@@ -26,9 +26,9 @@ Scopo dell’Associazione è quello di promuovere la più ampia diffusione dell�
 - La valorizzazione di metodi produttivi non massificati e attenti all’impatto ambientale, compatibili con la filosofia del trashware;
 - Organizzare e/o partecipare a convegni, seminari, corsi e manifestazioni, fiere, intesi come momenti di divulgazione e crescita culturale nell’ambito dell’alfabetizzazione informatica compatibili con i punti precedenti;
 
-Sono definiti "software liberi" nel sensWo inteso dall'associazione tutte le opere che sono state contrassegnate dai loro autori con una licenza approvata [Open Source Initiative](https://opensource.org/licenses) che ne permetta l'elaborazione e/o la diffusione gratuita.
+Sono definiti "software liberi" nel senso inteso dall'associazione tutte le opere che sono state contrassegnate dai loro autori con una licenza approvata [Open Source Initiative](https://opensource.org/licenses) che ne permetta l'elaborazione e/o la diffusione gratuita.
 
-Il Consiglio Direttivo ha facoltà di organizzare, anche in collaborazione con altri enti, società e associazioni, manifestazioni culturali non rientranti nella normale attività dell’Associazione, purché tali manifestazioni non siano in con il presente Statuto Sociale.
+Il Consiglio Direttivo ha facoltà di organizzare, anche in collaborazione con altri enti, società e associazioni, manifestazioni culturali non rientranti nella normale attività dell’Associazione, purché tali manifestazioni non siano in contrasto con il presente Statuto Sociale.
 
 ### 1.3 Durata
 
@@ -46,11 +46,11 @@ Gli organi dell’Associazione sono:
 
 ### 2.1 Composizione dell’Associazione
 
-Il numero dei soci è illimitato. Può diventare socio qualsiasi studente, docente o membro del personale universitario, indipendentemente dalla propria appartenenza politica e religiosa, sesso, cittadinanza, appartenenza etnica e professione. Agli aspiranti soci sono richiesti l’accettazione dello statuto e dei regolamenti interni.
+Il numero dei soci è illimitato. Può diventare socio chiunque, indipendentemente dalla propria appartenenza politica e religiosa, sesso, cittadinanza, appartenenza etnica e professione. Agli aspiranti soci sono richiesti l’accettazione dello statuto e dei regolamenti interni.
 
 ### 2.2 Domanda di ammissione
 
-Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
+Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
 
 ### 2.3 Soci
 
