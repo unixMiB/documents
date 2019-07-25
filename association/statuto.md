@@ -222,3 +222,6 @@ La decisione motivata di scioglimento dell’Associazione deve essere presa da a
 ### 7.1 Rinvio
 
 Per quanto non previsto dallo Statuto o dal Regolamento interno, si rinvia alle norme in materia di associazioni contenute nel Codice Civile e nelle leggi vigenti.
+
+Milano, 25 Giugno 2019
+Il presidente
