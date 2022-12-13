@@ -32,7 +32,7 @@ Il Consiglio Direttivo ha facoltà di organizzare, anche in collaborazione con a
 
 ### 1.3 Durata
 
-L’Associazione ha durata illimitata e può essere sciolta con una delibera dell’Assemblea dei soci in riunione straordinaria.
+L’Associazione ha durata illimitata e può essere sciolta con una delibera dell’Assemblea dei soci con diritto di voto in riunione straordinaria.
 
 ### 1.4 Organi dell’Associazione
 
@@ -50,7 +50,9 @@ Il numero dei soci è illimitato. Può diventare socio chiunque, indipendentemen
 
 ### 2.2 Domanda di ammissione
 
-Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome e matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica o mediante telegram.
+Gli aspiranti soci devono presentare domanda al Consiglio Direttivo, menzionando il proprio nome, cognome e matricola unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda può essere presentata attraverso email, richiesta cartacea, richiesta fisica, o mediante telegram.
+
+Gli aspiranti soci devono presentare domanda all'Associazione, menzionando il proprio nome, cognome, matricola e recapito unitamente all’attestazione di accettare ed attenersi allo statuto, al regolamento interno e alle deliberazioni degli organi sociali. La domanda deve essere presentata compilando il form di immatricolazione, pubblicamente accessibile dal sito [unixmib.org](unixmib.org), da volantini distribuiti in università o dai vari canali social dell'Associazione.
 
 ### 2.3 Soci
 
@@ -60,25 +62,32 @@ Sono Soci tutti coloro che si riconoscono nei fini della Associazione, che sono 
 
 I soci si dividono in:
 
+- Soci Amministrativi;
 - Soci Ordinari;
-- Soci Inattivi;
+- Soci Esterni;
 - Soci Fondatori.
+
+### 2.4 Soci Amministrativi
+
+I Soci Amministrativi sono Soci che sono entrati nel consiglio di amministrazione dopo una votazione a favore del 70% dell'attuale amministrazione.
+La loro carica può decorrere a seguito di votazione straordinaria con voti a favore di almeno il 70% dei membri del consiglio di amministrazione.
 
 ### 2.5 Soci Ordinari
 
-I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazione, previa accettazione della loro domanda d’iscrizione da parte degli organi preposti.
+I Soci Ordinari sono persone fisiche, che entrano a far parte dell’Associazione, previa accettazione della loro domanda d’iscrizione da parte degli organi preposti. I Soci Ordinari perdono la carica dopo aver lasciato l'università.
 
-### 2.6 Soci Inattivi
+### 2.6 Soci Esterni
 
-I Soci Inattivi, sono Soci Ordinari che non abbiano partecipato, senza giustificazione, per quattro riunioni ordinarie consecutive dell’Associazione. La richiesta di reintegrazione allo status di Socio Ordinario deve essere sottoposta agli organi preposti.
+I Soci Esterni sono persone fisiche che sono esterne all'Università degli Studi Milano-Bicocca ma che hanno interesse a far parte dell'associazione. 
+I Soci Esterni non possono entrare diventare Soci Amministrativi.
 
 ### 2.7 Soci Fondatori
 
-Sono soci ordinari che hanno aiutato a fondare l'associazione e che non perdono lo status di socio anche dopo aver lasciato l'università.
+Sono Soci ordinari che hanno aiutato a fondare l'associazione e che non perdono lo status di Socio anche dopo aver lasciato l'università.
 
 ### 2.8 Accettazione del socio
 
-Entro trenta giorni dalla presentazione, salvo parere contrario anche di un singolo membro del Consiglio Direttivo, che dovrà esprimerne i motivi, la qualifica di socio diverrà effettiva e al nuovo socio verrà consegnata la tessera sociale.
+Entro trenta giorni dalla presentazione, salvo parere contrario anche di un singolo membro del Consiglio Amministrativo, che dovrà esprimerne i motivi, la qualifica di socio diverrà effettiva e al nuovo socio verrà consegnata la tessera sociale.
 
 ### 2.9 Diritti del socio
 
@@ -120,7 +129,8 @@ Il patrimonio sociale dell’Associazione è indivisibile ed è costituito da: c
 
 ### 3.2 Rendiconto
 
-Il rendiconto comprende l’esercizio sociale dal 1 gennaio al 31 dicembre di ogni anno e deve essere presentato all’assemblea dei soci entro il 20 giugno successivo. Ulteriore deroga può essere prevista in caso di comprovata necessità o impedimento.
+Il rendiconto comprende l’esercizio sociale dal 1 gennaio al 31 dicembre di ogni anno e deve essere presentato all'unanimità all’assemblea dei soci amministrativi entro il 31 gennaio successivo. Ulteriore deroga può essere prevista in caso di comprovata necessità o impedimento.
+
 
 ### 3.3 Composizione del rendiconto
 
@@ -223,4 +233,4 @@ La decisione motivata di scioglimento dell’Associazione deve essere presa da a
 
 Per quanto non previsto dallo Statuto o dal Regolamento interno, si rinvia alle norme in materia di associazioni contenute nel Codice Civile e nelle leggi vigenti.
 
-Milano, 25 Giugno 2019.
+Milano, 12 Dicembre 2022.
